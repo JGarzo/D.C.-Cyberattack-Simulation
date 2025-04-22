@@ -8,16 +8,6 @@ locations:
     description: DOD Headquarters
     latitude: 38.871857
     longitude: -77.056267
-    url: 
+    url: '#'
     
-  - name: 
-    description:
-    latitude:
-    longitude:
-    url:
-    
-  - name:
-    description:
-    latitude:
-    longitude:
-    url:
+
