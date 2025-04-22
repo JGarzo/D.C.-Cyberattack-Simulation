@@ -7,7 +7,7 @@ permalink: /
 
 # D.C. Cyberattack Simulation
 
-![D.C. Cyberattack Simulation](assets/images/placeholder.png)
+![D.C. Cyberattack Simulation](assets/images/chatcreatedimage.png)
 
 This simulation is a cyberattack that was conducted by Russia, creating major turmoil in the Washington D.C. area.
 
