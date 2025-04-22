@@ -4,7 +4,7 @@ layout: Map
 nav_order: 4
 ---
 
-# Washington DC
+# Event Map
 
 Below is a map showing all events.
 
