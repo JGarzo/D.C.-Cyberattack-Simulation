@@ -1,6 +1,6 @@
 ---
-title: Map
-layout: map
+title: Event Map
+layout: Washington D.C.
 nav_order: 4
 ---
 
