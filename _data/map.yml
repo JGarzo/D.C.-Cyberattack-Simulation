@@ -1,10 +1,20 @@
 center:
-  latitude: 37.229572
-  longitude: -80.413940
+  latitude: 38.897675
+  longitude: -77.036530
   zoom: 9
 locations:
-  - name: VT
+  - name: Pentagon
     description: Go Hokies!
     latitude: 37.2249991
     longitude: -80.4249983
     url: https://www.vt.edu
+  - name: 
+    description:
+    latitude:
+    longitude:
+    url:
+  - name:
+    description:
+    latitude:
+    longitude:
+    url:
