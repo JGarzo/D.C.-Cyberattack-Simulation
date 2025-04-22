@@ -5,10 +5,10 @@ center: White House
   
 locations:
   - name: Pentagon
-    description: Go Hokies!
+    description: DOD Headquarters
     latitude: 38.871857
     longitude: -77.056267
-    url: https://www.vt.edu
+    url: 
     
   - name: 
     description:
