@@ -5,11 +5,11 @@ nav_order: 1
 permalink: /
 ---
 
-# Just Another Simulation
+# D.C. Cyberattack Simulation
 
-![Placeholder](assets/images/placeholder.png)
+![D.C. Cyberattack Simulation](assets/images/placeholder.png)
 
-This is a template for creating new simulations.
+This simulation is a cyberattack that was conducted by Russia, creating major turmoil in the Washington D.C. area.
 
 Below is a list of resources about the website.
 
