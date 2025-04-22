@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum
+title: Capitol Power Plant
 layout: event
 parent: Scenarios
 nav_order: 1
