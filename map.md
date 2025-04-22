@@ -1,6 +1,6 @@
 ---
 title: Event Map
-layout: Map
+layout: map
 nav_order: 4
 ---
 
