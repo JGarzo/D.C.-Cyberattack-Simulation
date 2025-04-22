@@ -1,10 +1,10 @@
 ---
 title: Event Map
-layout: Washington D.C.
+layout: Map
 nav_order: 4
 ---
 
-# Event Map
+# Washington D.C.
 
 Below is a map showing all events.
 
