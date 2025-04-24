@@ -1,8 +1,8 @@
 ---
-title: Capitol Power Plant
+title: Public Disclosure of Compromised Military Intelligence
 layout: event
 parent: Scenarios
-nav_order: 1
+nav_order: 4
 ---
 
 # Public Disclosure of Compromised Military Intelligence
