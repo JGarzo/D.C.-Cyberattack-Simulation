@@ -41,13 +41,13 @@ locations:
       url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
     - name: Hospitals
-      descriptions:
+      description:
       latitude: 38.90137
       longitude: -77.050614
       url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
     - name: Businesses and Restaurants
-      descriptions:
+      description:
       latitude: 38.87463
       longitude: -77.004821
       url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
