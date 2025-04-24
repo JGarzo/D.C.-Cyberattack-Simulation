@@ -3,12 +3,54 @@ center:
   longitude: -77.036530
   zoom: 9
   
-locations:
+locations: 
   - name: Capitol Power Building
     description: The Capitol Power Plant is a fossil-fuel burning power plant which provides steam and chilled water for the United States Capitol, the Supreme Court, the Library of Congress and 19 other buildings in the Capitol Complex. 
     latitude: 38.882637
     longitude: -77.007752
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
+    
+    - name: Union Station 
+      description: 
+      latitude: 38.897095
+      longitude: -77.006332
+      url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
+
+    - name: Bank of America
+      description:
+      latitude: 38.898615
+      longitude: -77.029934
+      url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
+
+    - name: Capitol Hill
+      description:
+      latitude: 38.889847
+      longitude: -77.011384
+      url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
+
+    - name: Public Schools
+      description: K-12 Public Schools in District of Columbia Public Schools (DCPS) serves more than 51,000 students in the nation's capital through the efforts of approximately 4,000 educators in 117 schools.
+      latitude: 38.929252
+      longitude: -77.035985
+      url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
+
+    - name: D.C. Water and Sewer Authority
+      description:
+      latitude: 38.872826
+      longitude: -77.004228
+      url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
+
+    - name: Hospitals
+      descriptions:
+      latitude: 38.90137
+      longitude: -77.050614
+      url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
+
+    - name: Businesses and Restaurants
+      descriptions:
+      latitude: 38.87463
+      longitude: -77.004821
+      url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
     
    
