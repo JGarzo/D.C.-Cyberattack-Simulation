@@ -8,6 +8,8 @@ locations:
     description: The Capitol Power Plant is a fossil-fuel burning power plant which provides steam and chilled water for the United States Capitol, the Supreme Court, the Library of Congress and 19 other buildings in the Capitol Complex. 
     latitude: 38.882637
     longitude: -77.007752
-    url: '[Capitol PowerPlant](https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/lorem-ipsum/)'
+    link:
+      text: Capital PowerPlant 
+      url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/lorem-ipsum/
     
 
