@@ -9,6 +9,7 @@ locations:
     latitude: 38.882637
     longitude: -77.007752
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
+    marker_color: red
     
   #Byproduct of Captiol Power Building
   - name: Union Station 
