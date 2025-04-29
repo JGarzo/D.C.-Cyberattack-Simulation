@@ -1,5 +1,5 @@
 ---
-title: Verizon DDOS Attack
+title: Day 2
 layout: event
 parent: Scenarios
 nav_order: 2
