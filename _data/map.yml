@@ -22,7 +22,7 @@ locations:
     
 #Byproduct Day 1 Event
 - name: Capitol Power Plant Cyberattack Shuts Down Metro: Phishing Scam Cripples Energy Supply and Public Transportation Network 
-  description: Union Station in Washington, D.C., is a key transportation hub connecting Metro's Red Line with Amtrak, MARC, and VRE services. As one of the busiest stations, it drives significant commuter traffic and contributes to local commerce through its retail and dining offerings
+  description: Union Station in Washington D.C., is a key transportation hub connecting Metro's Red Line with Amtrak, MARC, and VRE services. As one of the busiest stations, it drives significant commuter traffic and contributes to local commerce through its retail and dining offerings
   latitude: 38.897095
   longitude: -77.006332
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
@@ -36,7 +36,7 @@ locations:
     
 #Byproduct Day 1 Event
 - name: Capitol Power Plant Cyberattack catalyzes Citizens Unrest on Capitol Hill: Public Outcry Intensifies Amid Cybersecurity Crisis
-  description: Capitol Hill, home to the U.S. Capitol Building and congressional offices, symbolizes democracy and national decision-making. Its prominence makes it a focal point for protests, where citizens gather to demand accountability and advocate for political and social change.
+  description: Capitol Hill, home to the U.S. Capitol Building and congressional offices, symbolizes democracy and national decision making. Its prominence makes it a focal point for protests, where citizens gather to demand accountability and advocate for political and social change.
   latitude: 38.889847
   longitude: -77.011384
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
