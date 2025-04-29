@@ -1,5 +1,5 @@
 ---
-title: Public Disclosure of Compromised Military Intelligence
+title: Day 4
 layout: event
 parent: Scenarios
 nav_order: 4
