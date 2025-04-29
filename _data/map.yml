@@ -6,7 +6,7 @@ center:
 locations: 
   # Day 1 Event
   - name: Capitol Power Building
-    description: The Capitol Power Plant is a fossil-fuel burning power plant which provides steam and chilled water for the United States Capitol, the Supreme Court, the Library of Congress and 19 other buildings in the Capitol Complex. 
+    description: "The Capitol Power Plant is a fossil-fuel burning power plant which provides steam and chilled water for the United States Capitol, the Supreme Court, the Library of Congress and 19 other buildings in the Capitol Complex." 
     latitude: 38.882637
     longitude: -77.007752
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
@@ -14,50 +14,49 @@ locations:
     
   #Byproduct of Capitol Power Building
   - name: Union Station 
-    description: Union Station in Washington, D.C. is a historic transportation hub and shopping center located just blocks from the U.S. Capitol Building
+    description: "Union Station in Washington, D.C. is a historic transportation hub and shopping center located just blocks from the U.S. Capitol Building"
     latitude: 38.897095
     longitude: -77.006332
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
     
   #Byproduct of Capitol Power Building
   - name: Bank of America
-    description: Bank of America is one of the largest financial institutions in the U.S., offering banking, credit cards, loans, and investment services.
+    description: "Bank of America is one of the largest financial institutions in the U.S., offering banking, credit cards, loans, and investment services."
     latitude: 38.898615
     longitude: -77.029934
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
     
   #Byproduct of Capitol Power Building
   - name: Capitol Hill
-    description: Capitol Hill is the seat of the U.S. government, home to the domed United States Capitol, Senate, Houses of Representatives and the neoclassical Supreme Court.
+    description: "Capitol Hill is the seat of the U.S. government, home to the domed United States Capitol, Senate, Houses of Representatives and the neoclassical Supreme Court."
     latitude: 38.889847
     longitude: -77.011384
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
   
   #Byproduct of Capitol Power Building
   - name: Public Schools
-    description: K-12 Public Schools in District of Columbia Public Schools (DCPS) serves more than 51,000 students in the nation's capital through the efforts of approximately 4,000 educators in 117 schools.
+    description: "K-12 Public Schools in District of Columbia Public Schools (DCPS) serves more than 51,000 students in the nation's capital through the efforts of approximately 4,000 educators in 117 schools."
     latitude: 38.929252
     longitude: -77.035985
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
   #Byproduct of Capitol Power Building
   - name: D.C. Water and Sewer Authority
-    description: Responsible for treating wastewater from Washington, D.C., Maryland, and Virginia. It operates the Blue Plains Advanced Wastewater Treatment Plant, which is the largest of its kind in the world. 
+    description: "Responsible for treating wastewater from Washington, D.C., Maryland, and Virginia. It operates the Blue Plains Advanced Wastewater Treatment Plant, which is the largest of its kind in the world." 
     latitude: 38.872826
     longitude: -77.004228
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
   #Byproduct of Capitol Power Building
   - name: Hospitals
-    description: '**Hospitals in the D.C. metropolitan area switch to backup generators**'
-    description: Hospitals provide necessary healthcare to those in need of treatment of any severity within the D.C. metro area.
+    description: "**Hospitals in the D.C. metropolitan area switch to backup generators**"
     latitude: 38.90137
     longitude: -77.050614
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
   #Byproduct of Capitol Power Building
   - name: Businesses and Restaurants
-    description: Businesses and Restaurants provide jobs as well as necessities to those who live in the surrounding area.
+    description: "Businesses and Restaurants provide jobs as well as necessities to those who live in the surrounding area."
     latitude: 38.87463
     longitude: -77.004821
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
