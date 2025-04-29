@@ -1,5 +1,5 @@
 ---
-title: Capitol Power Plant
+title: Day 1
 layout: event
 parent: Scenarios
 nav_order: 1
