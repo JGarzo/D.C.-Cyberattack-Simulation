@@ -49,7 +49,7 @@ locations:
 
   #Byproduct of Capitol Power Building
   - name: Hospitals
-    subheader: Hospitals in the D.C. metropolitan area switch to backup generators
+    description: **Hospitals in the D.C. metropolitan area switch to backup generators**
     description: i will input the description here just a place holder
     latitude: 38.90137
     longitude: -77.050614
@@ -67,6 +67,7 @@ locations:
 
 
  # Day 2 Event
+ - name: Verizon DDOS Attack
 
     
    
