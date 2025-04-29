@@ -4,6 +4,7 @@ center:
   zoom: 9
   
 locations: 
+  # Day 1 Event
   - name: Capitol Power Building
     description: The Capitol Power Plant is a fossil-fuel burning power plant which provides steam and chilled water for the United States Capitol, the Supreme Court, the Library of Congress and 19 other buildings in the Capitol Complex. 
     latitude: 38.882637
@@ -48,7 +49,8 @@ locations:
 
   #Byproduct of Capitol Power Building
   - name: Hospitals
-    description:
+    subheader: Hospitals in the D.C. metropolitan area switch to backup generators
+    description: i will input the description here just a place holder
     latitude: 38.90137
     longitude: -77.050614
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
@@ -59,6 +61,12 @@ locations:
     latitude: 38.87463
     longitude: -77.004821
     url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
+
+
+
+
+
+ # Day 2 Event
 
     
    
