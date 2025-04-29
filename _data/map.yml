@@ -49,7 +49,7 @@ locations:
 
 #Byproduct of Capitol Power Building
 - name: Hospitals
-  description: **Hospitals in the D.C. metropolitan area switch to backup generators**
+  description: '**Hospitals in the D.C. metropolitan area switch to backup generators**'
   latitude: 38.90137
   longitude: -77.050614
   url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
