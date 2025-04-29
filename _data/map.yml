@@ -49,7 +49,7 @@ locations:
 
   #Byproduct of Capitol Power Building
   - name: Hospitals
-    description: "**Hospitals in the D.C. metropolitan area switch to backup generators**"
+    description: '**Hospitals in the D.C. metropolitan area switch to backup generators**'
     description: Hospitals provide necessary healthcare to those in need of treatment of any severity within the D.C. metro area.
     latitude: 38.90137
     longitude: -77.050614
