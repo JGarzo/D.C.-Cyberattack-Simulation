@@ -88,7 +88,7 @@ locations:
 #Byproduct of Day 2 Event
 - name: "Verizon DDoS Attack Sparks Nationwide Emergency Response: Government Agencies shifts to emergency commmunication servers."
   description: Over 50 agencies and 10,000 officials in D.C. depend on secure networks for crisis coordination, making disruptions a serious risk to emergency response and national security.
-  latitude: 39.8977
+  latitude: 38.8977
   longitude: -77.0365
   # url:
 
