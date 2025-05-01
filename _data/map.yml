@@ -21,49 +21,49 @@ locations:
     
     
 #Byproduct Day 1 Event
-- name: Capitol Power Plant Cyberattack Shuts Down Metro: Phishing Scam Cripples Energy Supply and Public Transportation Network 
+- name: "Capitol Power Plant Cyberattack Shuts Down Metro: Phishing Scam Cripples Energy Supply and Public Transportation Network" 
   description: Union Station in Washington D.C., is a key transportation hub connecting Metro's Red Line with Amtrak, MARC, and VRE services. As one of the busiest stations, it drives significant commuter traffic and contributes to local commerce through its retail and dining offerings
   latitude: 38.897095
   longitude: -77.006332
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
     
 #Byproduct Day 1 Event
-- name: Capitol Power Plant Cyberattack Paralyzes Online Banking in D.C.: Residents and Businesses Struggle With Financial Disruptions Amidst the Broader Cybersecurity Crisis, Highlighting Systemic Vulnerabilities.
+- name: "Capitol Power Plant Cyberattack Paralyzes Online Banking in D.C.: Residents and Businesses Struggle With Financial Disruptions Amidst the Broader Cybersecurity Crisis, Highlighting Systemic Vulnerabilities."
   description: Bank of America serves thousands of D.C. residents and businesses daily, making it vital to the region's financial operations. A shutdown would disrupt transactions, loans, and investments, potentially causing widespread economic instability.
   latitude: 38.898615
   longitude: -77.029934
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
     
 #Byproduct Day 1 Event
-- name: Capitol Power Plant Cyberattack catalyzes Citizens Unrest on Capitol Hill: Public Outcry Intensifies Amid Cybersecurity Crisis
+- name: "Capitol Power Plant Cyberattack catalyzes Citizens Unrest on Capitol Hill: Public Outcry Intensifies Amid Cybersecurity Crisis"
   description: Capitol Hill, home to the U.S. Capitol Building and congressional offices, symbolizes democracy and national decision making. Its prominence makes it a focal point for protests, where citizens gather to demand accountability and advocate for political and social change.
   latitude: 38.889847
   longitude: -77.011384
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
   
 #Byproduct Day 1 Event
-- name: Public Schools Shut Down Amid Capitol Power Plant Cyberattack: Energy Crisis Disrupts Education Across D.C.
+- name: "Public Schools Shut Down Amid Capitol Power Plant Cyberattack: Energy Crisis Disrupts Education Across D.C."
   description: K-12 Schools in District of Columbia Public Schools serves more than 51,000 students in the nation's capital through the efforts of approximately 4,000 educators in 117 schools.
   latitude: 38.929252
   longitude: -77.035985
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
 #Byproduct Day 1 Event
-- name: Cyberattack on Capitol Power Plant Sparks Water Contamination: Power Outage Disrupts DC Water Systems, Leading to Treatment Failures and Supply Contamination
+- name: "Cyberattack on Capitol Power Plant Sparks Water Contamination: Power Outage Disrupts DC Water Systems, Leading to Treatment Failures and Supply Contamination"
   description: Responsible for treating wastewater from Washington, D.C., Maryland, and Virginia. It operates the Blue Plains Advanced Wastewater Treatment Plant, which is the largest of its kind in the world.
   latitude: 38.872826
   longitude: -77.004228
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
 #Byproduct Day 1 Event
-- name: Capitol Power Plant Cyberattack Forces Emergency Energy Measures: DC Hospitals Switch to Backup Generators
+- name: "Capitol Power Plant Cyberattack Forces Emergency Energy Measures: DC Hospitals Switch to Backup Generators"
   description: The downtown Washington, D.C., hospital network serves thousands of patients daily, with MedStar Washington Hospital Center being the busiest hospital in the area. It handles over 28,000 discharges annually and has 749 staffed beds, making it a critical hub for healthcare services in the region.
   latitude: 38.90137
   longitude: -77.050614
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
 #Byproduct Day 1 Event
-- name: Capitol Power Plant Cyberattack Forces Small Business Closures: Energy Crisis Halts Operations Across Downtown D.C.
+- name: "Capitol Power Plant Cyberattack Forces Small Business Closures: Energy Crisis Halts Operations Across Downtown D.C."
   description: Downtown D.C. hosts over 75,000 small businesses, employing around 260,000 people and serving thousands daily. These businesses contribute significantly to the city's economy, especially through restaurants and retail that cater to both residents and tourists.
   latitude: 38.87463
   longitude: -77.004821
