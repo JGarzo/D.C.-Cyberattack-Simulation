@@ -88,36 +88,36 @@ locations:
 #Byproduct of Day 2 Event
 - name: "Verizon DDoS Attack Sparks Nationwide Emergency Response: Government Agencies shifts to emergency commmunication servers."
   description: Over 50 agencies and 10,000 officials in D.C. depend on secure networks for crisis coordination, making disruptions a serious risk to emergency response and national security.
-  latitude:
-  longitude:
+  latitude: 39.8977
+  longitude: -77.0365
   # url:
 
 #Byproduct of Day 2 Event
 - name: "Verizon DDoS Attack Stretches Cyber Command Resources: Straining National Cyber Defense."
   description: impacts over 5,000 cybersecurity personnel and critical defenses across 30 agencies in D.C.
-  latitude:
-  longitude:
+  latitude: 39.1085854
+  longitude: -76.772685
   # url:
 
 #Byproduct of Day 2 Event
 - name: "Verizon DDoS Attack: Public Confusion and Isolation Fuel Rising Animosity Toward Local Government."
   description: With 700,000 residents, a district-wide protest in D.C. could disrupt daily life, strain resources, and shape national discourse.
-  latitude:
-  longitude:
+  latitude: 38.8953
+  longitude: -77.0175
   # url:
 
 #Byproduct of Day 2 Event
 - name: "Emergency service capabilities are hindered due to Verizon DDos Attack: lack of communication between local and federal services creates redundancy."
   description: communication for 40 agencies and 15,000 emergency personnel is affected, delaying crisis response and increasing public safety risks.
-  latitude:
-  longitude:
+  latitude: 38.90334473937048
+  longitude: -76.94074886641418
   # url:
 
 #Byproduct of Day 2 Event
 - name: "Verizon DDoS Attack Triggers Bank Shutdown: Cash Becomes Sole Tender Amid Growing Civil Unrest."
   description: With millions of dollars locked in financial institutions, the inability to access funds has heightened tensions, disrupting commerce and straining law enforcement efforts.
-  latitude:
-  longitude:
+  latitude: 38.898180119434464
+  longitude: -77.02773200366414 
   # url:
 
 
@@ -139,30 +139,30 @@ locations:
 #Byproduct of Day 3 Event
 - name: "Trojan Cyberattack Exploits Pentagon Backdoor: Hackers Access National Security Data."
   description: Exposes classified defense data and compromising 20 federal agencies with global reverberations.
-  latitude:
-  longitude:
+  latitude: 38.89758945542778
+  longitude: -77.03865730029206 
   # url:
 
 #Byproduct of Day 3 Event
 - name: "Trojan Cyberattack Cripples Infrastructure: Fueling Riots Amid Information Blackouts and Economic Chaos."
   description: Millions face information blackouts, economic instability, and power failures. With over 50 agencies struggling to restore services, public unrest continues to escalate.
-  latitude:
-  longitude:
+  latitude: 38.895028524717105
+  longitude: -77.0279951478597 
   # url:
 
 
 #Byproduct of Day 3 Event
 - name: "Trojan Cyberattack Paralyzes Railroads: Disrupts Supply Chains and Strangling Humanitarian Aid Efforts."
   description: Food and medical aid for hundreds of thousands is disrupted, critical relief efforts and emergency response is hit hard.
-  latitude:
-  longitude:
+  latitude: 38.9024172600543
+  longitude: -77.00482661496636 
   # url:
 
 #Byproduct of Day 3 Event
 - name: "Trojan Cyberattack Sparks Crisis: Hackers Threaten to Expose National Security Secrets to the Media."
   description:  Classified national security secrets are at risk forcing officials into a race to contain the breach before intelligence goes public. Tensions are rising fast.
-  latitude:
-  longitude:
+  latitude: 38.9051807183489
+  longitude: -77.03805408984356 
   # url:
 
 
@@ -177,8 +177,8 @@ locations:
 #Byproduct of Day 4 Event
 - name: "Leaked Military Secrets Trigger Media Frenzy: Misinformation Sparks Public Panic and Global Scrutiny of U.S. Security."
   description: The leak of classified military intelligence has ignited a media storm, with both real and false narratives spreading rapidly. As misinformation fuels public panic, global scrutiny intensifies over U.S. security protocols and war strategies. Officials scramble to contain the fallout, while diplomatic tensions rise amid uncertainty and speculation.
-  latitude:
-  longitude:
+  latitude: 38.90599582420687
+  longitude: -77.04727103200527 
   # url:
 
   
