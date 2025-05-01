@@ -21,7 +21,7 @@ locations:
     
     
 #Byproduct Day 1 Event
-- name: "Capitol Power Plant Cyberattack Shuts Down Metro: Phishing Scam Cripples Energy Supply and Public Transportation Network" 
+- name: "Capitol Power Plant Cyberattack Shuts Down Metro: Phishing Scam Cripples Energy Supply and Public Transportation Network." 
   description: Union Station in Washington D.C., is a key transportation hub connecting Metro's Red Line with Amtrak, MARC, and VRE services. As one of the busiest stations, it drives significant commuter traffic and contributes to local commerce through its retail and dining offerings
   latitude: 38.897095
   longitude: -77.006332
@@ -35,7 +35,7 @@ locations:
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
     
 #Byproduct Day 1 Event
-- name: "Capitol Power Plant Cyberattack catalyzes Citizens Unrest on Capitol Hill: Public Outcry Intensifies Amid Cybersecurity Crisis"
+- name: "Capitol Power Plant Cyberattack catalyzes Citizens Unrest on Capitol Hill: Public Outcry Intensifies Amid Cybersecurity Crisis."
   description: Capitol Hill, home to the U.S. Capitol Building and congressional offices, symbolizes democracy and national decision making. Its prominence makes it a focal point for protests, where citizens gather to demand accountability and advocate for political and social change.
   latitude: 38.889847
   longitude: -77.011384
@@ -49,14 +49,14 @@ locations:
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
 #Byproduct Day 1 Event
-- name: "Cyberattack on Capitol Power Plant Sparks Water Contamination: Power Outage Disrupts DC Water Systems, Leading to Treatment Failures and Supply Contamination"
+- name: "Cyberattack on Capitol Power Plant Sparks Water Contamination: Power Outage Disrupts DC Water Systems, Leading to Treatment Failures and Supply Contamination."
   description: Responsible for treating wastewater from Washington, D.C., Maryland, and Virginia. It operates the Blue Plains Advanced Wastewater Treatment Plant, which is the largest of its kind in the world.
   latitude: 38.872826
   longitude: -77.004228
   # url: https://jgarzo.github.io/D.C.-Cyberattack-Simulation/scenarios/Power Plant Phishing Attack/
 
 #Byproduct Day 1 Event
-- name: "Capitol Power Plant Cyberattack Forces Emergency Energy Measures: DC Hospitals Switch to Backup Generators"
+- name: "Capitol Power Plant Cyberattack Forces Emergency Energy Measures: DC Hospitals Switch to Backup Generators."
   description: The downtown Washington, D.C., hospital network serves thousands of patients daily, with MedStar Washington Hospital Center being the busiest hospital in the area. It handles over 28,000 discharges annually and has 749 staffed beds, making it a critical hub for healthcare services in the region.
   latitude: 38.90137
   longitude: -77.050614
@@ -86,36 +86,36 @@ locations:
 
 
 #Byproduct of Day 2 Event
-- name: Government Agencies shift to emergency communication, precaution is at an all time high.
-  description:
+- name: "Verizon DDoS Attack Sparks Nationwide Emergency Response: Government Agencies shifts to emergency commmunication servers."
+  description: Over 50 agencies and 10,000 officials in D.C. depend on secure networks for crisis coordination, making disruptions a serious risk to emergency response and national security.
   latitude:
   longitude:
   # url:
 
 #Byproduct of Day 2 Event
-- name: Cyber Command Spreads resources thin
-  description:
+- name: "Verizon DDoS Attack Stretches Cyber Command Resources: Straining National Cyber Defense."
+  description: impacts over 5,000 cybersecurity personnel and critical defenses across 30 agencies in D.C.
   latitude:
   longitude:
   # url:
 
 #Byproduct of Day 2 Event
-- name: Isolation and public confusion shifts anomosity towards local governing entities
-  description:
+- name: "Verizon DDoS Attack: Public Confusion and Isolation Fuel Rising Animosity Toward Local Government."
+  description: With 700,000 residents, a district-wide protest in D.C. could disrupt daily life, strain resources, and shape national discourse.
   latitude:
   longitude:
   # url:
 
 #Byproduct of Day 2 Event
-- name: Emergency service capabilities are hindered, lack of communication between local and federal services creates redundancy.
-  description:
+- name: "Emergency service capabilities are hindered due to Verizon DDos Attack: lack of communication between local and federal services creates redundancy."
+  description: communication for 40 agencies and 15,000 emergency personnel is affected, delaying crisis response and increasing public safety risks.
   latitude:
   longitude:
   # url:
 
 #Byproduct of Day 2 Event
-- name: Bank shutdown leads to a shift to cash as sole legal tender, civil unrest continues as banks hold all the cash.
-  description:
+- name: "Verizon DDoS Attack Triggers Bank Shutdown: Cash Becomes Sole Tender Amid Growing Civil Unrest."
+  description: With millions of dollars locked in financial institutions, the inability to access funds has heightened tensions, disrupting commerce and straining law enforcement efforts.
   latitude:
   longitude:
   # url:
@@ -137,30 +137,30 @@ locations:
 
 
 #Byproduct of Day 3 Event
-- name: Hackers obtain information about National Security
-  description:
+- name: "Trojan Cyberattack Exploits Pentagon Backdoor: Hackers Access National Security Data."
+  description: Exposes classified defense data and compromising 20 federal agencies with global reverberations.
   latitude:
   longitude:
   # url:
 
 #Byproduct of Day 3 Event
-- name:  Riot in the streets about lack of information, legal tender scarcity, No power, etc.
-  description:
+- name: "Trojan Cyberattack Cripples Infrastructure: Fueling Riots Amid Information Blackouts and Economic Chaos."
+  description: Millions face information blackouts, economic instability, and power failures. With over 50 agencies struggling to restore services, public unrest continues to escalate.
   latitude:
   longitude:
   # url:
 
 
 #Byproduct of Day 3 Event
-- name: Railroads are unable to operate, supply chains disrupted and humanitarian efforts are being strangled.
-  description:
+- name: "Trojan Cyberattack Paralyzes Railroads: Disrupts Supply Chains and Strangling Humanitarian Aid Efforts."
+  description: Food and medical aid for hundreds of thousands is disrupted, critical relief efforts and emergency response is hit hard.
   latitude:
   longitude:
   # url:
 
 #Byproduct of Day 3 Event
-- name: Hackers threaten to leak info about national security to the media
-  description:
+- name: "Trojan Cyberattack Sparks Crisis: Hackers Threaten to Expose National Security Secrets to the Media."
+  description:  Classified national security secrets are at risk forcing officials into a race to contain the breach before intelligence goes public. Tensions are rising fast.
   latitude:
   longitude:
   # url:
@@ -168,26 +168,19 @@ locations:
 
 
 # Day 4 Event
-- name: Hackers release sensetive military and geopolitical information to the media, Intense international scrutiny is directed at the U.s> security protocols and war plans.
-  description:
-  latitude:
-  longitude:
-  # url:
+# - name: Hackers release sensetive military and geopolitical information to the media, Intense international scrutiny is directed at the U.s> security protocols and war plans.
+# description:
+# latitude:
+# longitude:
+# url:
 
 #Byproduct of Day 4 Event
-- name: The media spreads both real and fake narratives regarding the leaked information. Misinformation fuels public panic and chaos within the simulation.
-  description:
+- name: "Leaked Military Secrets Trigger Media Frenzy: Misinformation Sparks Public Panic and Global Scrutiny of U.S. Security"
+  description: The leak of classified military intelligence has ignited a media storm, with both real and false narratives spreading rapidly. As misinformation fuels public panic, global scrutiny intensifies over U.S. security protocols and war strategies. Officials scramble to contain the fallout, while diplomatic tensions rise amid uncertainty and speculation.
   latitude:
   longitude:
   # url:
 
-
-#Byproduct of Day 4 Event
-- name: Misinformation fuels global public chaos and panic
-  description:
-  latitude:
-  longitude:
-  # url:
   
 
     
