@@ -93,11 +93,12 @@ locations:
   # url:
 
 #Byproduct of Day 2 Event
-- name: "Verizon DDoS Attack Stretches Cyber Command Resources: Straining National Cyber Defense."
-  description: Impacts over 5,000 cybersecurity personnel and critical defenses across 30 agencies in D.C.
+- name: Verizon DDoS Attack
+  description: >
+    Impacts over 5,000 cybersecurity personnel and critical defenses across 30 agencies in D.C.  
+    ![Verizon DDoS](https://jgarzo.github.io/D.C.-Cyberattack-Simulation/assets/images/verizonpicture.png)
   latitude: 39.1085854
   longitude: -76.772685
-  image: assets/images/verizonpicture.png
     # src: "assets/images/verizonpicture.jpg" NEED TO FIGURE OUT
     # type: "png" NEED TO FIGURE OUT
   # url:
