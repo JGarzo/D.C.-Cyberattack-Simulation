@@ -95,8 +95,7 @@ locations:
 #Byproduct of Day 2 Event
 - name: Verizon DDoS Attack
   description: >
-    Impacts over 5,000 cybersecurity personnel and critical defenses across 30 agencies in D.C.  
-    ![Verizon DDoS](https://jgarzo.github.io/D.C.-Cyberattack-Simulation/assets/images/verizonpicture.png)
+        Impacts over 5,000 cybersecurity personnel and critical defenses across 30 agencies in D.C.<br><img src="https://jgarzo.github.io/D.C.-Cyberattack-Simulation/assets/images/verizonpicture.png" width="100%">
   latitude: 39.1085854
   longitude: -76.772685
     # src: "assets/images/verizonpicture.jpg" NEED TO FIGURE OUT
